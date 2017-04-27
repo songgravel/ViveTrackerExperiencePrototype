@@ -7,9 +7,9 @@
 ProjectSettings/*
 !ProjectSettings/EditorSettings.asset
 
-Assets/*
-!Assets/Prototypes/
-!Assets/Prototypes.meta
+#Assets/*
+#!Assets/Prototypes/
+#!Assets/Prototypes.meta
 
 *.cfg
 
